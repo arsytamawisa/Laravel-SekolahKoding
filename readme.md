@@ -12,6 +12,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
     - Migration
     - Seeding
     
+    
+    
 - Intermediate
     - Pagination
     - Send Email (Mailtrap)
@@ -21,6 +23,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
     - Resource Controller
     - Routes (prefix, grouping, match, etc)
     - Middleware
+    
+    
     
 - Relationship
     - One to One, One to Many, Many to Many
@@ -34,6 +38,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
     - UpdateExitingPivot
     - Sync
     - Change Time Parent
+    
+    
     
 - Others
     - Event & Listener
